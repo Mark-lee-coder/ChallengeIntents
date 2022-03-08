@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge Intents</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>
